@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>id_402_value_1626_651.jpg</filename>
+	<path>/Users/sai/Downloads/WaterMeters/images/id_402_value_1626_651.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2058</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>601</xmin>
+			<ymin>191</ymin>
+			<xmax>1258</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
